@@ -5,11 +5,11 @@ Hipsters
 	hipstersontheroad_03_qcon
 
 Jovem Nerd
-	nerdcast_651_adaptacoes_new
-	nerdcash_06
-	nerdcast_empreendedor_47
-	nerdcast_speak_english_10
-	nerdtech_34_new
+	nerdcash_15
+	nerdcast_692_era_uma_vez_em_hollywood
+	nerdcast_empreendedor_56
+	nerdcast_speak_english_19
+	nerdtech_43
 
 Não Salvo
 	Analise_15_Vou_de_Taxi
